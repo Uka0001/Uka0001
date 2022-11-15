@@ -2,6 +2,7 @@
 -->
 - 👨‍💻 I’m currently learning Java ☕️
 - 📫 How to reach me: @OleksiiTelegram
+- https://www.linkedin.com/in/borbuniukoleksii 
 - 🛠 Working with: 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
