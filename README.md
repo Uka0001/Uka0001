@@ -1,6 +1,6 @@
 ### Hi there 👋
 -->
-- 👨‍💻 I am Java Developer ☕️
+- 👨‍💻 Java/Kotlin BackEnd Developer ☕️
 - 📫 How to reach me 
 - Telegram: https://t.me/OleksiiTelegram
 - Linkedin: https://www.linkedin.com/in/borbuniukoleksii
