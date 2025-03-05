@@ -1,10 +1,6 @@
 ### Hi there 👋
 -->
 - 👨‍💻 Java/Kotlin BackEnd Developer ☕️
-- 📫 How to reach me 
-- Telegram: https://t.me/OleksiiTelegram
-- Linkedin: https://www.linkedin.com/in/borbuniukoleksii
-- Skype:    https://join.skype.com/invite/mjlhhHmweT2O
 - DockerHub: https://hub.docker.com/repositories/uka0001
 
 - 🛠 Working with: 
