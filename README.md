@@ -1,7 +1,6 @@
 ### Hi there 👋
 -->
 - 👨‍💻 Java/Kotlin BackEnd Developer ☕️
-- DockerHub: https://hub.docker.com/repositories/uka0001
 
 - 🛠 Working with: 
 
